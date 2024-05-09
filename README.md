@@ -1,2 +1,2 @@
 # Java-LiteratureSystem
-My 2nd java project which features a literature award management system 
+I built a literature award management system in Java using an object oriented approach.
